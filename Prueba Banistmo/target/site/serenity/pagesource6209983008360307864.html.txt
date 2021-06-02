@@ -1,0 +1,6 @@
+<html><head></head><body>
+        <script>
+            !function(){var e,n,t,a,o={};function r(e){for(var n=e+"=",t=document.cookie.split(";"),a=0;a<t.length;a++){for(var o=t[a];" "==o.charAt(0);)o=o.substring(1,o.length);if(0==o.indexOf(n))return o.substring(n.length,o.length)}return null}function i(e,n,t){if(t){var a=new Date;a.setTime(a.getTime()+24*t*60*60*1e3);var o="; expires="+a.toGMTString()}else o="";document.cookie=e+"="+n+o+"; path=/; domain=skaduks.com"}o.id=(n="1622645486494-39",t=1825,null!=(a=r(e="adman_id"))?("adman_id"==e&&(document.cookie=e+"="+a+"; expires=Thu, 31 Jan 2000 14:32:28 GMT; path=/",i(e,a,1825)),a):(""==n&&(n=Date.now()+"-"+Math.floor(100*Math.random()+1)),i(e,n,t),n)),top.postMessage(o,"https://www.grupobancolombia.com/")}();
+        </script>
+    
+</body></html>

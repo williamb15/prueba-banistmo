@@ -1,0 +1,6 @@
+co/com/banistmo/certificacion/prueba/runners/InvestmentRequestRunner.java
+ co.com.banistmo.certificacion.prueba.runners.InvestmentRequestRunner
+co/com/banistmo/certificacion/prueba/stepdefinitions/GeneralStepDefinitions.java
+ co.com.banistmo.certificacion.prueba.stepdefinitions.GeneralStepDefinitions
+co/com/banistmo/certificacion/prueba/stepdefinitions/InvestmentRequestStepDefinitions.java
+ co.com.banistmo.certificacion.prueba.stepdefinitions.InvestmentRequestStepDefinitions

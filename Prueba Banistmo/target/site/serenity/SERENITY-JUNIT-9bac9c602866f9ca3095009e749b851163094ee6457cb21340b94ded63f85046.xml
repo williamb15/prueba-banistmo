@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Investment Request" skipped="0" tests="1" time="29.57" timestamp="2021-06-02 09:57:17"><testcase name="Investment Request"><failure message="Sorry, at this time it is not possible to get the PDF - &#10;Expected: &quot;Contrato+Inversion+Virtual.pdf&quot;&#10;     but: was &quot;&quot;" type="java.lang.AssertionError">Sorry, at this time it is not possible to get the PDF - 
+Expected: "Contrato+Inversion+Virtual.pdf"
+     but: was ""</failure><system-err>Sorry, at this time it is not possible to get the PDF - 
+Expected: "Contrato+Inversion+Virtual.pdf"
+     but: was ""&#13;
+co.com.banistmo.certificacion.prueba.stepdefinitions.InvestmentRequestStepDefinitions.heWillBeAbleToSeeTheNameOfThePdf(InvestmentRequestStepDefinitions.java:37)&#13;
+✽.he will be able to see the name of the PDF Contrato+Inversion+Virtual.pdf(src/test/resources/features/investment_request.feature:9)&#13;
+</system-err></testcase></testsuite>
